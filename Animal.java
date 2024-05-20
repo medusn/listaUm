@@ -18,6 +18,6 @@ public class Animal {
 	public void setTipo(String novoTipo) {
 		this.tipo = novoTipo;
 	}
-	public String miar() {
+	public String emitirSom() {
 		return "Miauu!";
 	}
