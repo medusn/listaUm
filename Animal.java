@@ -21,3 +21,4 @@ public class Animal {
 	public String emitirSom() {
 		return "Miauu!";
 	}
+}
